@@ -9,5 +9,5 @@
  Para compilar os programas é apenas necessário ter o acesso a um Jupyter Notebook, ou Google Colab, e rodar as células. Os dados para a maioria das resoluções se encontram na pasta Data de cada projeto. 
 
 <p><b>O projeto pertence aos seguintes desenvolvedores:</b></p><a href="https://github.com/brunereduardo">Bruner Eduardo Augusto Albrecht</a><br></br>
-<a href="https://github.com/ClaytonMiccas">Clayton Miccas Junior</a>
+<a href="https://github.com/ClaytonMiccas">Clayton Miccas Junior</a><br></br>
 <a href="https://github.com/illiamw">William Luis Alves Ferreira</a></p>
