@@ -1,5 +1,5 @@
 # Complex_Networks_USP
-#### [English version here!](https://github.com/brunereduardo/GameXp_DB_USP/blob/master/Documentos/English/README.md)
+#### [English version here!](https://github.com/brunereduardo/Complex_Networks_USP/blob/main/English/README.md)
 
 <p> O projeto tem como objetivo principal o desenvolvimento dos conceitos básicos da teoria das redes complexas com a apresentação das ferramentas fundamentais para a representação, modelagem e caracterização e classificação de redes complexas. Os conceitos são aplicados na análise da Internet, da World Wide Web, da linguagem, da sociedade, de cadeias alimentares, das interações celulares e de malhas rodoviárias.</p>
 
