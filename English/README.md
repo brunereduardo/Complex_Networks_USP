@@ -20,7 +20,7 @@
 </ul>  
 
 
-## Instruções para Compilar o Codigo-Fonte
+## Instructions for Compiling the Source Code
 To compile the programs it is only necessary to have access to a Jupyter Notebook, or Google Colab, and run the cells to obtain the results. The data for most resolutions is found in the Data folder for each project. For more agile processing, a tip would be to use GPUS instead of the CPU.
 
 <p><b>The project belongs to the following developers:</b></p><a href="https://github.com/brunereduardo">Bruner Eduardo Augusto Albrecht</a><br></br>
