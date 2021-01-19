@@ -42,27 +42,34 @@ To compile the programs it is only necessary to have access to a Jupyter Noteboo
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/brunereduardo/Compiler_Py_USP
+$ git clone https://github.com/brunereduardo/Complex_Networks_USP
 
 # Access the project folder on terminal/cmd
-$ cd Compiler_Py_USP/Main Programs
+$ cd Complex_Networks_USP/Project One
 
-# Run an application with the following command to inject any test case and compare the output with the saida.txt files
-$ python3  compiler.py < Compiler_Py_USP/Tests/nome_do_arquivo_de_entrada_test.txt 
+# Execute o seguinte comando para abrir o notebook
+$ jupyter notebook Project1.ipynb
 
 ```
 
 ### 🚀 Technology
 
-The following tool and libraries were used to build the project:
+The following libraries were used to build the project:
 
-- JFlap
-- sys.py
-- pprint.py 
+- Networkx 
+- Numpy
+- Scipy
+- sklearn
+- Pandas
+- Random
+- Warnings
+- OS
+- Pyplot
+- Seaborn 
 
 ### License
 
-<p>This project is under the MIT license, for more information look for the file <a href = "https://github.com/brunereduardo/Compiler_Py_USP/blob/master/LICENSE">LICENSE</a></p>
+<p>This project is under the MIT license, for more information look for the file <a href = "https://github.com/brunereduardo/Complex_Networks_USP/blob/master/LICENSE">LICENSE</a></p>
  
 ### Authors
-Implemented and designed with ❤️ by [Bruner Eduardo Augusto Albrecht](https://github.com/brunereduardo) | [Carlos R Dos Santos Junior](https://github.com/CarlosSantosJr) | [Clayton Miccas Junior](https://github.com/ClaytonMiccas) 👋🏽
+Implemented and designed with ❤️ by [Bruner Eduardo Augusto Albrecht](https://github.com/brunereduardo) | [Clayton Miccas Junior](https://github.com/ClaytonMiccas) | [William Luis Alves Ferreira](https://github.com/illiamw) 👋🏽
