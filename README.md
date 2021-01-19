@@ -1,6 +1,6 @@
 # Complex_Networks_USP
 
-![](google.com)
+<img src="https://miro.medium.com/max/1000/0*7c3qs1DT8-4BVOOj.png" width="500" height="383">
 
 #### [English version here!](https://github.com/brunereduardo/Complex_Networks_USP/blob/main/English/README.md)
 
@@ -26,7 +26,6 @@
 <p align="center">
 <a href="#Descrição-do-Projeto">Descrição do Projeto</a> •  
 <a href="#Pré-requisitos">Pré-requisitos</a> •	
-<a href="#Funções">Funções</a> •
 <a href="#Licença">Licença</a> • 
 <a href="#Autores">Autores</a>
 </p>
@@ -70,11 +69,7 @@ As seguintes estruturas de dados, ferramentas e bibliotecas foram usadas na cons
 
 ### Licença
 
-<p>Este projeto está sob a licença MIT, para mais informações procurar pelo arquivo <a href = "https://github.com/brunereduardo/TwitterDB_USP/blob/main/LICENSE">LICENSE</a></p>
+<p>Este projeto está sob a licença MIT, para mais informações procurar pelo arquivo <a href = "https://github.com/brunereduardo/Complex_Networks_USP/blob/main/LICENSE">LICENSE</a></p>
 
 ### Autores
-Implementado e criado com ❤️ por [Bruner Eduardo Augusto Albrecht](https://github.com/brunereduardo) | [Felipe Oliveira](https://github.com/felipeoliveir4) 👋🏽
-
-<p><b>O projeto pertence aos seguintes desenvolvedores:</b></p><a href="https://github.com/brunereduardo">Bruner Eduardo Augusto Albrecht</a><br></br>
-<a href="https://github.com/ClaytonMiccas">Clayton Miccas Junior</a><br></br>
-<a href="https://github.com/illiamw">William Luis Alves Ferreira</a></p>
+Implementado e criado com ❤️ por [Bruner Eduardo Augusto Albrecht](https://github.com/brunereduardo) | [Clayton Miccas Junior](https://github.com/ClaytonMiccas) | [William Luis Alves Ferreira](https://github.com/illiamw) 👋🏽
