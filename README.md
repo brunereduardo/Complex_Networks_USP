@@ -1,6 +1,10 @@
 # Complex_Networks_USP
+
+![](google.com)
+
 #### [English version here!](https://github.com/brunereduardo/Complex_Networks_USP/blob/main/English/README.md)
 
+## Descrição do Projeto
 <p> O projeto tem como objetivo principal o desenvolvimento dos conceitos básicos da teoria das redes complexas com a apresentação das ferramentas fundamentais para a representação, modelagem e caracterização e classificação de redes complexas. Os conceitos são aplicados na análise da Internet, da World Wide Web, da linguagem, da sociedade, de cadeias alimentares, das interações celulares e de malhas rodoviárias.</p>
 
 <p>Para mais informações, basta procurar pelo arquivo .PDF na pasta de cada projeto e a seguir temos os seguintes pontos estudados: </p>
@@ -19,9 +23,57 @@
   <li>Classificação de redes complexas</li>
 </ul>  
 
+<p align="center">
+<a href="#Descrição-do-Projeto">Descrição do Projeto</a> •  
+<a href="#Pré-requisitos">Pré-requisitos</a> •	
+<a href="#Funções">Funções</a> •
+<a href="#Licença">Licença</a> • 
+<a href="#Autores">Autores</a>
+</p>
 
-## Instruções para Compilar o Codigo-Fonte
+<h4 align="center"> 
+	🚧  Construído durante a matéria de Estrutura de Dados 🚧 BTREEs são necessárias para escalar o código 🚧
+</h4>
+
+### Pré-requisitos
  Para compilar os programas é apenas necessário ter acesso a um Jupyter Notebook, ou Google Colab, e rodar as células para obter os resultados. Os dados para a maioria das resoluções se encontram na pasta Data de cada projeto. Para processamentos mais ágeis, um dica seria usar GPUS em vez da CPU.
+
+### Rodando a Aplicação 🎲
+
+```bash
+# Clone este repositório
+$ git clone https://github.com/brunereduardo/TwitterDB_USP
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd TwitterDB_USP/Codes
+
+# Compile os arquivos .c e .h em um arquivo objeto com o seguinte comando
+$ gcc main.c fun.c fun.h arq.c arq.h ed.c ed.h help.c help.h -o app
+
+# Execute a aplicação com o seguinte comando para injetar qualquer caso de test e compare a saída com os arquivos .out
+$ ./app < test.in
+
+# Execute a aplicação com o seguinte comando para injetar qualquer caso de test e compare a saída com os arquivos .out
+```
+
+### 🚀 Tecnologias
+
+As seguintes estruturas de dados, ferramentas e bibliotecas foram usadas na construção do projeto:
+
+- Lista encadeada
+- Digrafo (grafo direcional)
+- Hexdump
+- Valgrind
+- String.h
+- Stdio.h
+- Stdlib.h
+
+### Licença
+
+<p>Este projeto está sob a licença MIT, para mais informações procurar pelo arquivo <a href = "https://github.com/brunereduardo/TwitterDB_USP/blob/main/LICENSE">LICENSE</a></p>
+
+### Autores
+Implementado e criado com ❤️ por [Bruner Eduardo Augusto Albrecht](https://github.com/brunereduardo) | [Felipe Oliveira](https://github.com/felipeoliveir4) 👋🏽
 
 <p><b>O projeto pertence aos seguintes desenvolvedores:</b></p><a href="https://github.com/brunereduardo">Bruner Eduardo Augusto Albrecht</a><br></br>
 <a href="https://github.com/ClaytonMiccas">Clayton Miccas Junior</a><br></br>
