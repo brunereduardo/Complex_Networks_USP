@@ -31,7 +31,7 @@
 </p>
 
 <h4 align="center"> 
-	🚧  Construído durante a matéria de Estrutura de Dados 🚧 BTREEs são necessárias para escalar o código 🚧
+	🚧  Construído durante a matéria de Redes Complexas da ênfase de Ciência de Dados 🚧 
 </h4>
 
 ### Pré-requisitos
@@ -41,18 +41,13 @@
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/brunereduardo/TwitterDB_USP
+$ git clone https://github.com/brunereduardo/Complex_Networks_USP
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd TwitterDB_USP/Codes
+$ cd Complex_Networks_USP/Project One
 
-# Compile os arquivos .c e .h em um arquivo objeto com o seguinte comando
-$ gcc main.c fun.c fun.h arq.c arq.h ed.c ed.h help.c help.h -o app
-
-# Execute a aplicação com o seguinte comando para injetar qualquer caso de test e compare a saída com os arquivos .out
-$ ./app < test.in
-
-# Execute a aplicação com o seguinte comando para injetar qualquer caso de test e compare a saída com os arquivos .out
+# Execute o seguinte comando para abrir o notebook
+$ jupyter notebook Project1.ipynb
 ```
 
 ### 🚀 Tecnologias
