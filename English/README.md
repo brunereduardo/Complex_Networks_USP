@@ -31,7 +31,7 @@
 </p>
 
 <h4 align="center"> 
-	🚧  Built during the subject of Computer Theory and Compilers 🚧 Missing compiler code optimizer 🚧
+	🚧  Built during the subject of Complex Networks of the emphasis of Data Science 🚧
 </h4>
 
 
@@ -47,7 +47,7 @@ $ git clone https://github.com/brunereduardo/Complex_Networks_USP
 # Access the project folder on terminal/cmd
 $ cd Complex_Networks_USP/Project One
 
-# Execute o seguinte comando para abrir o notebook
+# Run the following command to open the notebook
 $ jupyter notebook Project1.ipynb
 
 ```
