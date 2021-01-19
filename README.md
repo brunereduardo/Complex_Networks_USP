@@ -52,15 +52,18 @@ $ jupyter notebook Project1.ipynb
 
 ### 🚀 Tecnologias
 
-As seguintes estruturas de dados, ferramentas e bibliotecas foram usadas na construção do projeto:
+As seguintes bibliotecas foram usadas na construção do projeto:
 
-- Lista encadeada
-- Digrafo (grafo direcional)
-- Hexdump
-- Valgrind
-- String.h
-- Stdio.h
-- Stdlib.h
+- Networkx 
+- Numpy
+- Scipy
+- sklearn
+- Pandas
+- Random
+- Warnings
+- OS
+- Pyplot
+- Seaborn
 
 ### Licença
 
