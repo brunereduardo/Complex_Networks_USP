@@ -1,6 +1,9 @@
 
 # Complex_Networks_USP
 
+<img src="https://miro.medium.com/max/1000/0*7c3qs1DT8-4BVOOj.png" width="500" height="383">
+
+## Project description
 <p> The main objective of the project is to develop the basic concepts of complex network theory.There is also the presentation of fundamental tools for the representation, modeling, characterization and classification of complex networks. The concepts are applied in the analysis of the Internet, the World Wide Web, language, society, food chains, cellular interactions and road networks.</p>
 
 <p>For more information, just search for the .PDF file in the folder of each project and below we have the following points studied:</p>
@@ -20,9 +23,46 @@
 </ul>  
 
 
-## Instructions for Compiling the Source Code
+<p align="center">
+<a href="#Project-description">Project description</a> •  
+<a href="#Prerequisites">Prerequisites</a> •	
+<a href="#License">License</a> • 
+<a href="#Authors">Authors</a>
+</p>
+
+<h4 align="center"> 
+	🚧  Built during the subject of Computer Theory and Compilers 🚧 Missing compiler code optimizer 🚧
+</h4>
+
+
+### Prerequisites
 To compile the programs it is only necessary to have access to a Jupyter Notebook, or Google Colab, and run the cells to obtain the results. The data for most resolutions is found in the Data folder for each project. For more agile processing, a tip would be to use GPUS instead of the CPU.
 
-<p><b>The project belongs to the following developers:</b></p><a href="https://github.com/brunereduardo">Bruner Eduardo Augusto Albrecht</a><br></br>
-<a href="https://github.com/ClaytonMiccas">Clayton Miccas Junior</a><br></br>
-<a href="https://github.com/illiamw">William Luis Alves Ferreira</a></p>
+### Running the Application 🎲
+
+```bash
+# Clone this repository
+$ git clone https://github.com/brunereduardo/Compiler_Py_USP
+
+# Access the project folder on terminal/cmd
+$ cd Compiler_Py_USP/Main Programs
+
+# Run an application with the following command to inject any test case and compare the output with the saida.txt files
+$ python3  compiler.py < Compiler_Py_USP/Tests/nome_do_arquivo_de_entrada_test.txt 
+
+```
+
+### 🚀 Technology
+
+The following tool and libraries were used to build the project:
+
+- JFlap
+- sys.py
+- pprint.py 
+
+### License
+
+<p>This project is under the MIT license, for more information look for the file <a href = "https://github.com/brunereduardo/Compiler_Py_USP/blob/master/LICENSE">LICENSE</a></p>
+ 
+### Authors
+Implemented and designed with ❤️ by [Bruner Eduardo Augusto Albrecht](https://github.com/brunereduardo) | [Carlos R Dos Santos Junior](https://github.com/CarlosSantosJr) | [Clayton Miccas Junior](https://github.com/ClaytonMiccas) 👋🏽
